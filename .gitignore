@@ -22,3 +22,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+#folder containig compiled classes
+classes/
+
+#file containing path to all src code
+sources.txt
